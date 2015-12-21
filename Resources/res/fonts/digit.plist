@@ -1,0 +1,17 @@
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+    <dict>
+        <key>version</key>           <!-- plist版本 -->
+        <integer>1</integer>
+        <key>textureFilename</key>   <!-- 字符图片资源: umber_style_0.png -->
+        <string>number_style_0.png</string>
+        <key>itemWidth</key>         <!-- 每个字符的宽: 20 -->
+        <integer>20</integer>
+        <key>itemHeight</key>        <!-- 每个字符的高: 31 -->
+        <integer>31</integer>
+        <key>firstChar</key>         <!-- 起始字符    : '%' -->
+        <integer>37</integer>
+    </dict>
+    </plist>
